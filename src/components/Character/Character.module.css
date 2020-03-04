@@ -1,0 +1,14 @@
+.character {
+    overflow-x: hidden;
+    background-color: lightblue;
+    min-height: 100vh;
+    text-align: left;
+}
+
+.cardStyle {
+    margin-top: 2rem;
+    width: 28%;
+}
+
+
+
